@@ -15,14 +15,12 @@ The **ft_transcendence** project involves developing a fully functional **real-t
    - Must function seamlessly on the latest version of **Google Chrome**.
 
 2. **Backend**:
-   - Optional; if implemented, must be written in **pure Ruby**, unless overridden by a module.
+   - Optional; if implemented, must be written in **Django framwork**.
    - Should adhere to database constraints if a database is used.
 
 3. **Game Features**:
    - Enable **live Pong games** with two players using the same keyboard.
    - Include a **tournament system** with player matchmaking and alias registration.
-   - Players must adhere to identical game rules (e.g., paddle speed).
-   - Optional AI opponent functionality.
 
 4. **Security**:
    - Passwords must be securely hashed.
@@ -43,42 +41,23 @@ The **ft_transcendence** project involves developing a fully functional **real-t
 To achieve full project completion (100%), developers must implement **at least 7 major modules**. Examples include:
 
 1. **Web Development**:
-   - Backend framework (e.g., Rails).
-   - Frontend framework (e.g., React or Vue).
-   - Storing tournament scores on a **Blockchain**.
+   - Backend framework  Django.
+   - Frontend  Pure vannila js ,using bostrap.
 
 2. **Gameplay Enhancements**:
-   - Support for **remote players** and multiplayer games (more than two).
+   - Support for **remote players** .
    - New games with history and matchmaking.
-   - **Game customization options**.
 
 3. **User Management**:
    - Standard user authentication and tournament management.
    - Remote authentication and JWT-based access.
 
-4. **AI & Analytics**:
-   - Introduce an **AI opponent**.
-   - Add **user and game statistics dashboards**.
-
-5. **Cybersecurity**:
-   - Two-factor authentication (2FA).
-   - Implement GDPR-compliant user data management.
-   - Web Application Firewall (WAF) with secure secrets management.
-
 6. **DevOps**:
    - Microservices architecture for the backend.
-   - Log management and monitoring.
 
 7. **Accessibility & Compatibility**:
-   - Support for multiple devices, languages, and browsers.
+   - Support for multiple devices, and browsers.
    - Accessibility options for visually impaired users.
-
-8. **Graphics**:
-   - Advanced 3D techniques for enhanced gameplay visuals.
-
-9. **Server-Side Features**:
-   - Replace client-based Pong with **server-side Pong**.
-   - Enable Pong gameplay via CLI with API integration.
 
 ---
 
