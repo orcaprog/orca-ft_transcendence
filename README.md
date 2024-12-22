@@ -38,8 +38,6 @@ The **ft_transcendence** project involves developing a fully functional **real-t
 
 ### Modules for Additional Features
 
-To achieve full project completion (100%), developers must implement **at least 7 major modules**. Examples include:
-
 1. **Web Development**:
    - Backend framework  Django.
    - Frontend  Pure vannila js ,using bostrap.
