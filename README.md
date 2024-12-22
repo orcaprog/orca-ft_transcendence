@@ -59,5 +59,56 @@ The **ft_transcendence** project involves developing a fully functional **real-t
 
 ---
 
-### Summary
-This project provides an opportunity to explore the **full-stack development process**, focusing on real-time features, containerization, and secure coding practices. While the basic implementation ensures a functional Pong contest website, the modular approach allows for innovative enhancements such as  remote gameplay.
+
+
+To use this project locally, follow these steps:  
+
+### 1. **Clone the Repository**  
+   Open your terminal and run:  
+   ```bash
+   git clone https://github.com/orcaprog/orca-ft_transcendence
+   ``` 
+
+### 2. **Navigate to the Project Directory**  
+   ```bash
+   cd orca-ft_transcendence
+   ```  
+
+### 3. **Ensure Dependencies Are Installed**  
+   Make sure the following dependencies are installed on your system:  
+   - **Make**: Used to automate build tasks.  
+   - **Docker**: A containerization platform to run your application.  
+   - **Docker Compose**: A tool to define and run multi-container Docker applications.  
+
+   #### Check Dependencies:  
+   - Verify **Make**:  
+     ```bash
+     make --version
+     ```  
+   - Verify **Docker**:  
+     ```bash
+     docker --version
+     ```  
+   - Verify **Docker Compose**:  
+     ```bash
+     docker-compose --version
+     ```  
+
+   If any dependency is missing, install it before proceeding.  
+
+### 4. **Start the Project**  
+   Run the following command:  
+   ```bash
+   make
+   ```  
+
+   This will:  
+   - Build the Docker containers for the project.  
+   - Start the application and its associated services (e.g., backend, database, etc.).  
+
+### 5. **Access the Application**  
+   Once the containers are running, open your browser and navigate to:  
+   ```  
+   https://localhost:8082
+   ```
+### Have fun!
