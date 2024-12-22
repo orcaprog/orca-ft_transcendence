@@ -1,4 +1,5 @@
-  <img width="100%" alt="Hello World" src="https://github.com/orcaprog/orca-ft_transcendence/blob/main/carbon%20(1).png">
+<img width="100%" alt="Hello World" src="https://github.com/orcaprog/orca-ft_transcendence/blob/main/carbon%20(1).png">
+
 ### Project Overview: ft_transcendence
 
 The **ft_transcendence** project involves developing a fully functional **real-time Pong contest website** with advanced gameplay features and strict compliance with security and development standards. This project challenges developers to create a single-page application (SPA) with both basic and advanced functionalities, allowing players to compete in live Pong games and tournaments. Here's a summary of the core requirements and modules:
