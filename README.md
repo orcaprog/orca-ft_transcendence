@@ -1,4 +1,4 @@
-<img width="100%" alt="Hello World" src="https://github.com/orcaprog/orca-ft_transcendence/blob/main/carbon%20(1).png">
+<img width="100%" alt="Hello World" src="https://github.com/orcaprog/orca-ft_transcendence/blob/main/carbon%20(4).png">
 
 ### Project Overview: ft_transcendence
 
