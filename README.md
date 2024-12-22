@@ -60,4 +60,4 @@ The **ft_transcendence** project involves developing a fully functional **real-t
 ---
 
 ### Summary
-This project provides an opportunity to explore the **full-stack development process**, focusing on real-time features, containerization, and secure coding practices. While the basic implementation ensures a functional Pong contest website, the modular approach allows for innovative enhancements such as AI opponents, remote gameplay, and blockchain integration.
+This project provides an opportunity to explore the **full-stack development process**, focusing on real-time features, containerization, and secure coding practices. While the basic implementation ensures a functional Pong contest website, the modular approach allows for innovative enhancements such as  remote gameplay.
